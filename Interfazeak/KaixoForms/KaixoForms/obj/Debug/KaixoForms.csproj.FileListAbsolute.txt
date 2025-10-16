@@ -1,0 +1,13 @@
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\bin\Debug\KaixoDLL.dll
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\bin\Debug\KaixoDLL.pdb
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.Up2Date
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+C:\Users\hernandez.markel\source\repos\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb

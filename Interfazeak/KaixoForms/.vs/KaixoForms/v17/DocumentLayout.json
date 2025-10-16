@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hernandez.markel\\source\\repos\\KaixoForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6D1D5-8282-4940-B415-3542BF251953}|KaixoForms\\KaixoForms.csproj|c:\\users\\hernandez.markel\\source\\repos\\kaixoforms\\kaixoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6D1D5-8282-4940-B415-3542BF251953}|KaixoForms\\KaixoForms.csproj|solutionrelative:kaixoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6D1D5-8282-4940-B415-3542BF251953}|KaixoForms\\KaixoForms.csproj|C:\\Users\\hernandez.markel\\source\\repos\\KaixoForms\\kaixoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6D1D5-8282-4940-B415-3542BF251953}|KaixoForms\\KaixoForms.csproj|solutionrelative:kaixoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hernandez.markel\\source\\repos\\KaixoForms\\KaixoForms\\Form1.cs",
+              "RelativeDocumentMoniker": "KaixoForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\hernandez.markel\\source\\repos\\KaixoForms\\KaixoForms\\Form1.cs",
+              "RelativeToolTip": "KaixoForms\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:19:05.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hernandez.markel\\source\\repos\\KaixoForms\\KaixoForms\\Form1.cs",
+              "RelativeDocumentMoniker": "KaixoForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\hernandez.markel\\source\\repos\\KaixoForms\\KaixoForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "KaixoForms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:17:43.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

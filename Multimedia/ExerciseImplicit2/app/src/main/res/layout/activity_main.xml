@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Buscar en Google Maps -->
+    <EditText
+        android:id="@+id/etMap"
+        android:hint="Ubikazio bat sartu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnMap"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:text="Google maps ireki"
+        app:shapeAppearance="@style/CardView" />
+
+    <!-- Abrir un enlace web -->
+    <EditText
+        android:id="@+id/etWeb"
+        android:hint="URL bat sartu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/btnWeb"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:text="Nabegatzailea ireki"
+        app:shapeAppearance="@style/CardView" />
+
+    <!-- Abrir cámara -->
+
+    <!-- Compartir texto -->
+    <EditText
+        android:id="@+id/etShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Partekatu nahi duzun testua idatzi" />
+
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:text="Testua partekatu"
+        app:shapeAppearance="@style/CardView" />
+
+    <Button
+        android:id="@+id/btnCamera"
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:text="Kamara ireki"
+        app:shapeAppearance="@style/CardView" />
+
+</LinearLayout>

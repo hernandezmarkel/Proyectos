@@ -1,0 +1,16 @@
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\bin\Debug\net8.0-windows\EsaldiakLotu.exe
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\bin\Debug\net8.0-windows\EsaldiakLotu.deps.json
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\bin\Debug\net8.0-windows\EsaldiakLotu.runtimeconfig.json
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\bin\Debug\net8.0-windows\EsaldiakLotu.dll
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\bin\Debug\net8.0-windows\EsaldiakLotu.pdb
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.Form1.resources
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.csproj.GenerateResource.cache
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.AssemblyInfoInputs.cache
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.AssemblyInfo.cs
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.csproj.CoreCompileInputs.cache
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.dll
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\refint\EsaldiakLotu.dll
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.pdb
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\EsaldiakLotu.genruntimeconfig.cache
+C:\Users\hernandez.markel\source\repos\EsaldiakLotu\EsaldiakLotu\obj\Debug\net8.0-windows\ref\EsaldiakLotu.dll

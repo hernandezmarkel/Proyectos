@@ -1,0 +1,13 @@
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.AssemblyReference.cache
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Form1.resources
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Properties.Resources.resources
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.GenerateResource.cache
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CoreCompileInputs.cache
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe.config
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.pdb
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\1ººº.dll
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\1ººº.pdb
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinForms.E30B4468.Up2Date
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.exe
+C:\Users\hernandez.markel\source\repos\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.pdb

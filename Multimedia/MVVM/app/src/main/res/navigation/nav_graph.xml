@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/myMortageFragment">
+
+    <fragment
+        android:id="@+id/myMortageFragment"
+        android:name="eus.markelhernandez.mvvm.MyMortageFragment"
+        android:label="fragment_my_mortage"
+        tools:layout="@layout/fragment_my_mortage" />
+
+
+</navigation>
