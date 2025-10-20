@@ -1,0 +1,16 @@
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\Library.dll
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\Library.pdb
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.csproj.Up2Date
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\obj\Debug\Agenda.exe.config
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\LibraryChartPrefijo2.dll
+C:\Users\hernandez.markel\Desktop\Agenda\Agenda\bin\Debug\LibraryChartPrefijo2.pdb

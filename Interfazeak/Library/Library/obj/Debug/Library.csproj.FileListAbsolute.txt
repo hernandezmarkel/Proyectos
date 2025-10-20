@@ -1,0 +1,6 @@
+C:\Users\hernandez.markel\source\repos\Library\Library\bin\Debug\Library.dll
+C:\Users\hernandez.markel\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\hernandez.markel\source\repos\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\hernandez.markel\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\hernandez.markel\source\repos\Library\Library\obj\Debug\Library.dll
+C:\Users\hernandez.markel\source\repos\Library\Library\obj\Debug\Library.pdb

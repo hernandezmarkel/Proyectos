@@ -1,0 +1,11 @@
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\bin\Debug\LibraryChartPrefijo2.dll
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\bin\Debug\LibraryChartPrefijo2.pdb
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\bin\Debug\Library.dll
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\bin\Debug\Library.pdb
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryChartPrefijo2.csproj.AssemblyReference.cache
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryChartPrefijo2.csproj.GenerateResource.cache
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryChartPrefijo2.csproj.CoreCompileInputs.cache
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryC.30A7B4F9.Up2Date
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryChartPrefijo2.dll
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryChartPrefijo2.pdb
+C:\Users\hernandez.markel\source\repos\LibraryChartPrefijo2\LibraryChartPrefijo2\obj\Debug\LibraryChartPrefijo2.UserControl1.resources
